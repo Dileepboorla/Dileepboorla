@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dileepboorla
 - 👀 I’m interested in learning new skills
-- 🌱 I’m currently learning information technology
+- 🌱 I’m currently in programm of information technology
 
 
 <!---
